@@ -1,0 +1,22 @@
+{
+  "name": "ledbar",
+  "version": "0.0.1",
+  "description": "A node.js script that control a led bar taking input from a potentiometer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edo78/ledbar.git"
+  },
+  "author": "Federico 'Edo' Granata (https://google.com/+FedericoGranata)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edo78/ledbar/issues"
+  },
+  "dependencies": {
+    "adc0832": "0.0.1",
+    "rpio": "0.9.20"
+  }
+}
